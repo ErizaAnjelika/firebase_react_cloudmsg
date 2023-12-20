@@ -24,4 +24,4 @@ const initializeFirebaseMessaging = async () => {
   }
 };
 
-export default initializeFirebaseMessaging
+export default initializeFirebaseMessaging;
