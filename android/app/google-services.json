@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "313219080429",
+    "project_id": "project-react-native-abfb9",
+    "storage_bucket": "project-react-native-abfb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313219080429:android:ecc7486634ca4aa0f6ace4",
+        "android_client_info": {
+          "package_name": "com.firebase_react_cloudmsg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_gMBt0PncM8MXsjF-ic40cQxc5o58Ti4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
